@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Romeo</string>
+    <string name="main_screen_title">Romeo and Juliet</string>
+    <string name="main_screen_subtitle_total_count">Total word count: %1$s</string>
+    <string name="main_screen_bottom_sheet_select_sorting_option">Select sorting option</string>
+    <string name="main_screen_menu_sort_options_content_description">Sort Options</string>
+</resources>
